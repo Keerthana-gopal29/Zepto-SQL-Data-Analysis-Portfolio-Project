@@ -69,20 +69,21 @@ These insights reflect **real-world analytical problem-solving using SQL**.
 ---
 
 ## 📁 Repository Structure
-📦 Zepto-SQL-Data-Analysis-Project 
- ┣ 📜 README.md  
- ┣ 📜 Zepto_SQL_Data_Analysis_Project.sql 
- ┗ 📄 zepto_dataset.csv  
+  📦 Zepto-SQL-Data-Analysis-Project 
+   ┣ 📜 README.md  
+   ┣ 📜 Zepto_SQL_Data_Analysis_Project.sql 
+   ┗ 📄 zepto_dataset.csv  
  
 ---
 
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/zepto-sql-data-analysis-project.git
+   git clone https://github.com/keerthana-gopal29/zepto-sql-data-analysis-portfolio-project.git
    ```
 2. Open PostgreSQL / pgAdmin
 3. Load the dataset into the database
 4. Execute queries from the .sql file step by step
 5. Review outputs and insights generated
 ---
+⭐ If you like this project, feel free to **star the repository**!
