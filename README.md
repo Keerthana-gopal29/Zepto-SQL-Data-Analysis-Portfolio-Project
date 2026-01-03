@@ -69,9 +69,11 @@ These insights reflect **real-world analytical problem-solving using SQL**.
 ---
 
 ## 📁 Repository Structure
-  📦 Zepto-SQL-Data-Analysis-Project 
+📦 Zepto-SQL-Data-Analysis-Project 
    ┣ 📜 README.md  
-   ┣ 📜 Zepto_SQL_Data_Analysis_Project.sql 
+   
+   ┣ 📜 Zepto_SQL_Data_Analysis_Project.sql
+   
    ┗ 📄 zepto_dataset.csv  
  
 ---
